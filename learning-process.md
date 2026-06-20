@@ -23,7 +23,7 @@ When I work in active mode, I focus completely on the problem in front of me. I 
 **Diffused Mode:**  
 When I work in diffused mode, I feel relaxed and my brain starts connecting ideas naturally. This mode helps me understand concepts better without forcing my mind too much.  
 
-I personally relate to diffused thinking because I walk at least **3 hours a day**, and many times I get solutions or clarity about coding problems while walking. I may not even be actively thinking about the problem, but the answer comes automatically.
+I personally relate to diffused thinking because I walk at least **2 hours a day**, and many times I get solutions or clarity about coding problems while walking. I may not even be actively thinking about the problem, but the answer comes automatically.
 
 ---
 
